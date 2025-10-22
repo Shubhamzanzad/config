@@ -1,13 +1,13 @@
 {
-  personal: {
-    name: "Shubham",
-    title: "Associate Software Engineer",
-    email: "zanzadshubham25@gmail.com",
-    phone: "+91-7387335258",
-    location: "Bengaluru, India",
-    github: "https://github.com/YOUR_USERNAME",
-    linkedin: "https://www.linkedin.com/in/YOUR_PROFILE",
-    bio: "Proactive Software Development Engineer with experience developing backend systems for the Josh app's recommendation team and LogEasy backend using Java, Python, and Golang. Experienced in designing and maintaining high-performance backend services, optimizing data pipelines, and ensuring low-latency APIs for large-scale user engagement.",
+  "personal": {
+    "name": "Shubham",
+    "title": "Associate Software Engineer",
+    "email": "zanzadshubham25@gmail.com",
+    "phone": "+91-7387335258",
+    "location": "Bengaluru, India",
+    "github": "https://github.com/YOUR_USERNAME",
+    "linkedin": "https://www.linkedin.com/in/YOUR_PROFILE",
+    "bio": "Proactive Software Development Engineer with experience developing backend systems for the Josh app's recommendation team and LogEasy backend using Java, Python, and Golang. Experienced in designing and maintaining high-performance backend services, optimizing data pipelines, and ensuring low-latency APIs for large-scale user engagement.",
   },
   education: [
     {
