@@ -53,7 +53,7 @@
   "projects": [
     {
       "name": "MediSync - Healthcare Portal",
-      "url": "https://github.com/Shubhamzanzad/HAD"
+      "url": "https://github.com/Shubhamzanzad/HAD",
       "technologies": [
         "Spring Boot",
         "React.js",
@@ -70,7 +70,7 @@
     },
     {
       "name": "LeagueFit - DevOps Project",
-      "url": "https://github.com/Shubhamzanzad/SS-Mini-Project"
+      "url": "https://github.com/Shubhamzanzad/SS-Mini-Project",
       "technologies": [
         "Jenkins",
         "Ansible",
@@ -87,7 +87,7 @@
     },
     {
       "name": "CLI-Based Course Registration System",
-      "url": "https://github.com/Shubhamzanzad/LeagueFit"
+      "url": "https://github.com/Shubhamzanzad/LeagueFit",
       "technologies": [
         "C",
         "Socket Programming",
