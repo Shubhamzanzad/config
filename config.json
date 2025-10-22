@@ -2,11 +2,10 @@
   "personal": {
     "name": "Shubham",
     "title": "Associate Software Engineer",
-    "email": "zanzadshubham25@gmail.com",
     "phone": "+91-7387335258",
     "location": "Bengaluru, India",
-    "github": "https://github.com/YOUR_USERNAME",
-    "linkedin": "https://www.linkedin.com/in/YOUR_PROFILE",
+    "github": "https://github.com/Shubhamzanzad",
+    "linkedin": "https://www.linkedin.com/in/shubham-zanzad",
     "bio": "Proactive Software Development Engineer with experience developing backend systems for the Josh app's recommendation team and LogEasy backend using Java, Python, and Golang. Experienced in designing and maintaining high-performance backend services, optimizing data pipelines, and ensuring low-latency APIs for large-scale user engagement."
   },
   "education": [
@@ -54,6 +53,7 @@
   "projects": [
     {
       "name": "MediSync - Healthcare Portal",
+      "url": "https://github.com/Shubhamzanzad/HAD"
       "technologies": [
         "Spring Boot",
         "React.js",
@@ -70,6 +70,7 @@
     },
     {
       "name": "LeagueFit - DevOps Project",
+      "url": "https://github.com/Shubhamzanzad/SS-Mini-Project"
       "technologies": [
         "Jenkins",
         "Ansible",
@@ -86,6 +87,7 @@
     },
     {
       "name": "CLI-Based Course Registration System",
+      "url": "https://github.com/Shubhamzanzad/LeagueFit"
       "technologies": [
         "C",
         "Socket Programming",
@@ -128,37 +130,37 @@
   "codingProfiles": [
     {
       "platform": "LeetCode",
-      "username": "YOUR_USERNAME",
-      "url": "https://leetcode.com/YOUR_USERNAME",
-      "problemsSolved": 700,
+      "username": "Zanzad_shubham",
+      "url": "https://leetcode.com/Zanzad_shubham",
+      "problemsSolved": 378,
       "rating": null
     },
     {
       "platform": "CodeForces",
-      "username": "YOUR_USERNAME",
-      "url": "https://codeforces.com/profile/YOUR_USERNAME",
-      "problemsSolved": null,
-      "rating": 1200
+      "username": "Zanzad_shubham",
+      "url": "https://codeforces.com/profile/Zanzad_shubham",
+      "problemsSolved": 91,
+      "rating": "Pupil - 1426"
     },
     {
       "platform": "CodeChef",
-      "username": "YOUR_USERNAME",
-      "url": "https://www.codechef.com/users/YOUR_USERNAME",
-      "problemsSolved": null,
-      "rating": 1500
+      "username": "zanzadshubham",
+      "url": "https://www.codechef.com/users/zanzadshubham",
+      "problemsSolved": 29,
+      "rating": "1 star - 1340"
     },
     {
       "platform": "Coding Ninjas",
-      "username": "YOUR_USERNAME",
-      "url": "https://www.codingninjas.com/studio/profile/YOUR_USERNAME",
-      "problemsSolved": 150,
+      "username": "zanzadShubham",
+      "url": "https://www.naukri.com/code360/profile/c3a07f5c-afc2-46cf-9d45-ad13f2c7a62d",
+      "problemsSolved": 210,
       "rating": null
     },
     {
       "platform": "GeeksforGeeks",
-      "username": "YOUR_USERNAME",
-      "url": "https://auth.geeksforgeeks.org/user/YOUR_USERNAME",
-      "problemsSolved": 200,
+      "username": "zanzadshubham25",
+      "url": "https://www.geeksforgeeks.org/user/zanzadshubham25/",
+      "problemsSolved": 155,
       "rating": null
     }
   ]
