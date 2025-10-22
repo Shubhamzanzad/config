@@ -12,8 +12,7 @@
   "education": [
     {
       "degree": "M.Tech. (CSE)",
-      "institution":
-        "International Institute of Information Technology, Bangalore (IIIT B)",
+      "institution": "International Institute of Information Technology, Bangalore (IIIT B)",
       "duration": "2023 - 2025",
       "location": "Bengaluru, Karnataka",
       "cgpa": "7.75"
@@ -24,7 +23,7 @@
       "duration": "2018 - 2022",
       "location": "Pune, Maharashtra",
       "cgpa": "8.87"
-    },
+    }
   ],
   "experience": [
     {
@@ -101,7 +100,7 @@
   "achievements": [
     "Secured All India Rank of 1517 in GATE CSE 2023",
     "Solved over 700+ coding problems across various platforms: LeetCode, Coding Ninjas, and GeeksForGeeks"
-  ]
+  ],
   "skills": {
     "languages": ["Java", "Python", "C", "C++", "Golang", "JavaScript"],
     "frameworks": [
@@ -163,4 +162,4 @@
       "rating": null
     }
   ]
-};
+}
